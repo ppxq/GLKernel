@@ -2,7 +2,6 @@
 //
 //	GLEntity - the basic class of entity can be displayed by GLKernel
 //
-//		written by Lulin Quan (Feb 27th, 2010)
 //
 /////////////////////////////////////////////////////////////////////////////
 
